@@ -1,4 +1,4 @@
-## | `consumer-safety-checklist.md` | Practical consumer safety checklist for responsible, non-clinical AI skincare tools |
+ | `consumer-safety-checklist.md` | Practical consumer safety checklist for responsible, non-clinical AI skincare tools |
 
 
 # Consumer Safety Checklist for AI Skincare Tools
