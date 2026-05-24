@@ -17,8 +17,9 @@ This work forms part of my broader professional interest in the intersection of 
 | `README.md` | Main project overview and introduction |
 | `article-summary.md` | Short summary of the published Medium article |
 | `dataset-bias-notes.md` | Notes explaining AI dataset bias and why representation matters |
-| `ai-consumer-safety-framework.md` | A structured framework for responsible, non-clinical skincare AI tools |
-| `future-work.md` | Outlines planned technical extensions, including Python analysis, Power BI dashboarding, consumer safety checklist, and non-clinical AI tool concept development |
+| `ai-consumer-safety-framework.md` | Structured framework for responsible, non-clinical skincare AI tools |
+| `future-work.md` | Planned technical extensions, including Python analysis, Power BI dashboarding, and AI tool concept development |
+| `consumer-safety-checklist.md` | Practical consumer safety checklist for responsible, non-clinical AI skincare tools |
 | `cover.png` | Visual cover/banner for the project |
 
 
