@@ -132,3 +132,9 @@ Founder, NmaCharis LLC
 
 
 https://medium.com/@chidinmac.igwe5
+
+## ## Related Links
+
+- Medium Article: https://medium.com/@chidinmac.igwe5/why-melanin-rich-skin-needs-better-ai-a-data-and-consumer-safety-perspective-c5d811265f75
+- LinkedIn Profile: https://www.linkedin.com/in/chidinma-charity-igwe-600130165
+- GitHub Portfolio: https://github.com/NmaCharis
