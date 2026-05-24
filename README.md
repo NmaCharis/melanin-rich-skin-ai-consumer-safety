@@ -114,3 +114,9 @@ This project is for educational, research, and portfolio purposes only. It does 
 **Chidinma Charity Igwe**
 Data Analyst | AI & Consumer Safety Enthusiast | Beauty-Tech Founder
 Founder, NmaCharis LLC
+
+
+## Related Publication
+
+
+https://medium.com/@chidinmac.igwe5
