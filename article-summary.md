@@ -77,7 +77,7 @@ Chidinma Charity Igwe
 Data Analyst | AI & Consumer Safety Enthusiast | Beauty-Tech Founder
 Founder, NmaCharis LLC
 
-# File 1: article-summary.md
+# Article Summary
 
 ## Publication Title
 
