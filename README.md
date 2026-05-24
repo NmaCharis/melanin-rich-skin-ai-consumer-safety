@@ -9,6 +9,18 @@ The article explores the importance of inclusive artificial intelligence in skin
 
 This work forms part of my broader professional interest in the intersection of **data analytics, artificial intelligence, consumer safety, inclusive skincare innovation, and non-clinical consumer decision-support tools**.
 
+
+## ## Project Files
+
+| File | Purpose |
+|---|---|
+| `README.md` | Main project overview and introduction |
+| `article-summary.md` | Short summary of the published Medium article |
+| `dataset-bias-notes.md` | Notes explaining AI dataset bias and why representation matters |
+| `ai-consumer-safety-framework.md` | A structured framework for responsible, non-clinical skincare AI tools |
+| `cover.png` | Visual cover/banner for the project |
+
+
 **Read the full article on Medium:**
 [https://medium.com/@chidinmac.igwe5/why-melanin-rich-skin-needs-better-ai-a-data-and-consumer-safety-perspective-c5d811265f75](https://medium.com/@chidinmac.igwe5/why-melanin-rich-skin-needs-better-ai-a-data-and-consumer-safety-perspective-c5d811265f75)
 
